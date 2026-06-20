@@ -1,4 +1,6 @@
-"Everything is going to be okay"
+![](/assets/2x/splash.png)
+
+*"Everything is going to be okay"*
 # a OMORI Themed Balatro Mod (DEMO)
 
 a vanilla esque Balatro Mod that currently adds **75 Jokers**, **4 Decks** and a reskin for **Buffoon Packs**. all based on items, characters and locations in OMORI
