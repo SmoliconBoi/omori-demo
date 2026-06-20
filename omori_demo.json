@@ -1,0 +1,19 @@
+{
+  "id": "omori",
+  "name": "OMORI (Demo)",
+  "author": [
+    "SmoliconBoi"
+  ],
+  "description": "(DEMO) A vanilla-esque mod that adds content based on items, characters and locations in OMORI.",
+  "prefix": "omori",
+  "main_file": "main.lua",
+  "version": "0.1.43a",
+  "priority": 0,
+  "badge_colour": "FFFFFF",
+  "badge_text_colour": "4f6367",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)",
+    "Amulet (>=2.3.4)",
+    "Lovely (>=0.8)"
+  ]
+}
