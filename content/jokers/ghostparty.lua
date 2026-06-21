@@ -2,7 +2,7 @@ SMODS.Joker{ --Ghost Party
     key = "ghostparty",
     config = {
         extra = {
-            chips = 50
+            chips = 20
         }
     },
     loc_txt = {
