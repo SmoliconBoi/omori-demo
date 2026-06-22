@@ -1,4 +1,6 @@
-"Everything is going to be okay"
+![](/assets/2x/splash.png)
+
+*"Everything is going to be okay"*
 # a OMORI Themed Balatro Mod (DEMO)
 
 a vanilla esque Balatro Mod that currently adds **75 Jokers**, **4 Decks** and a reskin for **Buffoon Packs**. all based on items, characters and locations in OMORI
@@ -11,8 +13,8 @@ a vanilla esque Balatro Mod that currently adds **75 Jokers**, **4 Decks** and a
 - [Lovely](https://github.com/ethangreen-dev/lovely-injector/releases) (v**0.8** or higher)
 
 **-=:Optionals:=-**
-- [Malverk (Enables Buffoon Pack reskin)](https://github.com/Eremel/Malverk)
-- [Trance (Small assembly required)](https://github.com/SpectralPack/Trance)
+- [Malverk](https://github.com/Eremel/Malverk) - (Enables Buffoon Pack reskin)
+- [Trance](https://github.com/SpectralPack/Trance) - (Simply Drag the .lua file to its colour folder)
 
 # Bugfixing/Feedback
 With this being a demo, some bugs may be present. should this occur, please report to the Issues section or the Discord [thread](https://discord.com/channels/1116389027176787968/1468104866730741985).
