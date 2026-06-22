@@ -65,7 +65,6 @@ SMODS.ObjectType({
     },
 })
 
-
 OMORI.config_tab = function() --configurations
 	return {n = G.UIT.ROOT, config = {
 			emboss = 0.05,
