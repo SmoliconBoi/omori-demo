@@ -21,7 +21,7 @@ SMODS.Joker{ --Orange Joe
     cost = 4,
     rarity = 1,
     blueprint_compat = true,
-    eternal_compat = true,
+    eternal_compat = false,
     perishable_compat = true,
     unlocked = true,
     discovered = false,
